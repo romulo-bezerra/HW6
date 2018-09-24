@@ -40,8 +40,7 @@ public class Curso implements Serializable {
     @Column(name = "pagina")
     private String pagina;
 
-    @NotNull
-    @Column(name = "grande_area_id", nullable = false)
+    @Column(name = "grande_area_id")
     private String grandeAreaId;
 
     @OneToMany(mappedBy = "curso")

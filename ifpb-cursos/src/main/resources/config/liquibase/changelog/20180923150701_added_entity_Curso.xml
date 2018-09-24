@@ -38,7 +38,7 @@
             </column>
 
             <column name="grande_area_id" type="varchar(255)">
-                <constraints nullable="false" />
+                <constraints nullable="true" />
             </column>
 
             <column name="unidade_id" type="bigint">

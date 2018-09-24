@@ -14,8 +14,8 @@
 
     <!--Carregando dados dos csvs-->
     <include file="config/liquibase/changelog/insert_values_table_Unidade.xml" relativeToChangelogFile="false"/>
-
-
+    <include file="config/liquibase/changelog/insert_values_table_Curso.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/insert_values_table_Disciplina.xml" relativeToChangelogFile="false"/>
 
     <!-- jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
 </databaseChangeLog>
