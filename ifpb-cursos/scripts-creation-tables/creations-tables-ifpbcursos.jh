@@ -1,0 +1,38 @@
+entity Curso {
+	id Long required,
+    nome String,
+    abreviacao String,
+    periodos Integer,
+    pagina String,
+    grandeAreaId String required
+}
+
+entity Disciplina {
+	id Long required,
+    nome String,
+    abreviacao String,
+    periodo Integer,
+    tipo TipoDisciplina,
+    cargaHoraria Integer,
+    aulasSemana Integer,
+}
+
+relationship OneToMany {
+	Curso{disciplina} to Disciplina
+}
+
+entity Unidade {
+	id Long required,
+    nome String,
+}
+
+relationship ManyToOne {
+	Curso{unidade} to Unidade
+}
+
+enum TipoDisciplina {
+	OBRIGATORIA,
+    OPTATIVA
+}
+
+service * with serviceClass

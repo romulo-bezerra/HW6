@@ -1,0 +1,313 @@
+8262,4,Informática / Artes,INF / ARTES,1,33,2
+8263,3,Informática / Artes,INF / ARTES,1,33,2
+8264,1,Manutenção de Micros,MANUTEN MICROS,3,33,2
+8265,7,Informática,INFORMÁTICA,1,67,4
+8266,2,Programação com Objetos Distribuidos,POD,5,83,5
+8267,2,Programação Orientada a Serviços,POS,6,67,4
+8268,2,Processos de Desenv. de Software,PROCESSOS DES.,4,100,6
+8269,1,Tópicos Especiais,TÓPICOS ESP.,4,33,2
+8270,2,Segurança de Dados,SEGURANÇA,6,67,4
+8271,1,Adm. Sistemas Oper. Abertos,ADM SO ABERTOS,4,100,6
+8272,2,Gerência da Informação,GERÊNCIA,2,67,4
+8273,2,Sistemas Operacionais,SO,4,83,5
+8274,1,Cabeamento Estrutrado,CABEAMENTO EST,3,33,2
+8275,1,Adm. Sistemas Oper. Proprietários,ADM SO PROP,4,67,4
+8276,2,Práticas de Programação,PRÁTICAS,5,83,5
+8277,2,Desenv. de Aplicaçoes Corporativas,DAC,5,100,6
+8278,2,Trabalho de Término de Curso,TCC-2,6,67,4
+8279,2,Linguagens e Ferramentas para WEB,LFWEB,3,83,5
+8280,2,Interface Homem-Máquina,IHM,4,67,4
+8281,1,Fundamentos de Informática,INFORMATICA,1,33,2
+8282,2,Programação de Sites Dinâmicos,PSD,4,83,5
+8283,2,Programação Estruturada,PE,1,117,7
+8284,2,Bancos de Dados Relacionais,BDR,3,117,7
+8285,2,Análise e Projeto de Sistemas,APS,3,83,5
+8286,2,Programação Orientada a Objetos,POO,2,117,7
+8287,2,Banco de Dados Não Convencionais,BDNC,5,83,5
+8288,2,Estruturas de Dados e Algoritmos,EST DADOS,3,83,5
+8289,2,Prog. Disp. Móveis e Sem Fio,PDM,6,83,5
+8290,8,Algoritmos e Téc. de Programação,ALGORITMOS,1,100,6
+8291,2,Padrões de Projeto,PADRÕES,4,83,5
+8292,2,Intro. ao Trabalho de Término de Curso,TCC-1,5,67,4
+8293,4,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,3,67,4
+8294,8,Português Instrumental,PORTUGUÊS,1,33,2
+8295,3,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,1,67,4
+8296,4,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,2,50,3
+8297,3,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,2,50,3
+8298,3,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,3,50,3
+8299,1,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,3,67,4
+8300,9,Comunicação e Linguagem,COMUNIC LING,1,33,2
+8301,4,Língua Inglesa,INGLÊS,2,50,3
+8302,4,Língua Inglesa,INGLÊS,3,50,3
+8303,3,Língua Inglesa,INGLÊS,2,33,2
+8304,1,Língua Inglesa,INGLÊS,2,33,2
+8305,1,Língua Inglesa,INGLÊS,3,33,2
+8306,7,Língua Inglesa,INGLÊS,1,50,3
+8307,5,Inglês Instrumental,INGLÊS INST.,1,33,2
+8308,8,Inglês Instrumental,INGLÊS INST.,2,33,2
+8309,4,Artes,ARTES,2,33,2
+8310,1,Algoritmos / Artes,ALGORIT/ARTES,1,33,2
+8311,7,Artes,ARTES,1,67,4
+8312,4,Educação Física,ED. FÍSICA,1,33,2
+8313,4,Educação Física,ED. FÍSICA,2,33,2
+8314,3,Educação Física,ED. FÍSICA,1,33,2
+8315,3,Educação Física,ED. FÍSICA,2,33,2
+8316,3,Educação Física,ED. FÍSICA,3,33,2
+8317,1,Educação Física,ED. FÍSICA,2,33,2
+8318,1,Educação Física,ED. FÍSICA,3,33,2
+8319,7,Educação Física,ED. FÍSICA,5,33,2
+8320,4,Educação Física,ED. FÍSICA,3,33,2
+8321,4,Química,QUÍMICA,1,50,3
+8322,7,Química,QUÍMICA,3,33,2
+8323,5,Química,QUÍMICA,2,33,2
+8324,4,Química,QUÍMICA,2,33,2
+8325,3,Química,QUÍMICA,2,50,3
+8326,3,Biologia,BIOLOGIA,2,33,2
+8327,3,Biologia,BIOLOGIA,3,33,2
+8328,1,Biologia,BIOLOGIA,3,33,2
+8329,4,Biologia,BIOLOGIA,1,50,3
+8330,1,Biologia,BIOLOGIA,1,33,2
+8331,9,Educação Ambiental,EDUC AMBIENT,2,33,2
+8332,4,Biologia,BIOLOGIA,2,33,2
+8333,1,Biologia,BIOLOGIA,2,33,2
+8334,7,Biologia,BIOLOGIA,3,33,2
+8335,6,Meio Ambiente,MEIO AMBIENT,3,17,1
+8336,4,Física,FÍSICA,1,50,3
+8337,3,Física,FÍSICA,3,33,2
+8338,1,Física,FÍSICA,3,33,2
+8339,8,Física Aplicada,FÍSICA,2,83,5
+8340,9,Física I,FISICA I,5,50,3
+8341,4,Física,FÍSICA,2,50,3
+8342,4,Física,FÍSICA,3,33,2
+8343,3,Física,FÍSICA,2,50,3
+8344,7,Física,FÍSICA,3,33,2
+8345,5,Física Aplicada,FÍSICA,1,50,3
+8346,4,Geografia,GEOGRAFIA,1,33,2
+8347,3,Geografia,GEOGRAFIA,1,33,2
+8348,4,Geografia,GEOGRAFIA,3,33,2
+8349,3,Geografia,GEOGRAFIA,2,33,2
+8350,1,Geografia,GEOGRAFIA,2,33,2
+8351,5,Meio Ambiente,MEIO AMBIENT,2,33,2
+8352,4,Meio Ambiente e HST,MEIO AMB E HST,4,33,2
+8353,8,Tecnologia Ambiental,TEC. AMBIENT,6,33,2
+8354,4,Met. do Trabalho Científico,METODOLOGIA,4,67,4
+8355,3,Met. do Trabalho Científico,METODOLOGIA,4,33,2
+8356,1,Met. do Trabalho Científico,METODOLOGIA,4,33,2
+8357,8,Met. da Pesquisa Científica,METODOLOGIA,5,33,2
+8358,4,História,HISTÓRIA,2,33,2
+8359,3,História,HISTÓRIA,2,33,2
+8360,1,História,HISTÓRIA,2,33,2
+8361,7,Met. da Pesquisa Científica,METODOLOGIA,5,33,2
+8362,6,Met. da Pesquisa Científica,METODOLOGIA,1,33,2
+8363,2,Met. da Pesquisa Científica,METODOLOGIA,3,83,5
+8364,4,Sociologia,SOCIOLOGIA,2,33,2
+8365,3,Sociologia,SOCIOLOGIA,2,33,2
+8366,1,Sociologia,SOCIOLOGIA,2,33,2
+8367,7,Sociologia,SOCIOLOGIA,3,33,2
+8368,1,Filosofia/Sociologia,FILOSOF/SOCIO,1,33,2
+8369,1,Met. da Pesquisa Científica,METODOLOGIA,1,33,2
+8370,3,Relações Humanas no Trabalho,RHT,2,33,2
+8371,1,Relações Humanas no Trabalho,RHT,2,33,2
+8372,5,Ética e R. H.,ETICA E RH,2,33,2
+8373,4,Filosofia,FILOSOFIA,3,33,2
+8374,3,Filosofia,FILOSOFIA,4,50,3
+8375,9,Filosofia da Educação,FILOSOFIA,2,50,3
+8376,9,Oficina de Prod. Acadêmica,PROD ACADEMICA,4,50,3
+8377,9,História da Educação,HIST EDUC,1,50,3
+8378,9,Psicologia da Aprendizagem,PSIC APREDIZ,1,50,3
+8379,9,Didática I,DIDÁTICA I,2,50,3
+8380,9,Didática II,DIDATICAII,3,50,3
+8381,1,Empreendedorismo,EMPREED.,4,33,2
+8382,8,Gestão da Produção,GEST. PROD,5,67,4
+8383,5,Tecnologia da Qualidade,TEC QUALIDAD,4,33,2
+8384,2,Relações Humanas no Trabalho,RHT,6,67,4
+8385,6,Manutenção Mecânica,MANUT. MECÂN,4,67,4
+8386,4,Tec. Mecânica e Soldagem,TEC E SOLDAGEM,2,67,4
+8387,6,Mat. de Const. Eletromecânica,MAT CONST ELET,2,33,2
+8388,6,Tecnologia Mecânica,TEC. MECÂNIC,3,33,2
+8389,8,Materiais,MATERIAIS,2,67,4
+8390,4,Materiais Mecânicos,MATERIAIS,1,33,2
+8391,4,Eletrônica Digital,ELETR DIGITA,3,33,2
+8392,4,Automação,AUTOMAÇÃO,4,67,4
+8393,6,Mecânica Vetorial,MECÂN. VETOR,1,33,2
+8394,4,Sistemas Térmicos,SIST TÉRMICO,3,33,2
+8395,6,Sistemas Térmicos,SIST TÉRMICO,4,50,3
+8396,8,Máquinas Térmicas,MÁQ. TÉRMICA,5,83,5
+8397,8,Pneumática e Hidráulica,PNEUM HIDRAU,4,100,6
+8398,4,Elementos de Máquinas,ELEM. MÁQUIN,2,33,2
+8399,6,Elementos de Máquinas,ELEM. MÁQUIN,2,33,2
+8400,4,Manutenção Mecânica,MANUT. MECÂN,4,67,4
+8401,8,Metrologia,METROLOGIA,1,33,2
+8402,8,Aut. de Pro. de Usinagem,AUT USINAGEM,5,83,5
+8403,8,Sist. Integrado de Manufatura,SIS MANUFATURA,6,100,6
+8404,8,Manutenção Industrial,MANUT. INDUS,6,83,5
+8405,4,Metrologia,METROLOGIA,1,17,1
+8406,6,Automação,AUTOMAÇÃO,4,67,4
+8407,3,HST,HST,3,33,2
+8408,1,HST,HST,3,33,2
+8409,5,HST,HST,2,33,2
+8410,6,HST,HST,1,33,2
+8411,8,HST,HST,5,67,4
+8412,6,Eletrônica,ELETRÔNIC,2,50,3
+8413,6,Manutenção de Máq. Elétricas,MANT MAQ ELET,4,33,2
+8414,8,Máquinas Elétricas,MÁQ. ELÉTRIC,3,83,5
+8415,8,Lab. de Eletrônica,LAB ELETRÔNICA,3,33,2
+8416,6,Instalação de Redes,INST DE REDE,3,33,2
+8417,6,Manutenção de Redes,MANT REDES,4,67,4
+8418,4,Eletricidade,ELETRICI.,1,50,3
+8419,4,Eletrônica,ELETRÔNIC,1,33,2
+8420,1,Manutenção de Periféricos,MANT PERIFER,4,33,2
+8421,8,Redes Industriais,REDES INDUST,6,67,4
+8422,4,Instalações Elétricas,INST ELÉTRIC,3,33,2
+8423,8,Lab. de Eletrônica Industrial,LAB ELETR IND,4,33,2
+8424,8,Eletrônica,ELETRÔNIC,3,100,6
+8425,8,Eletrônica Industrial,ELETR. INDUS,4,67,4
+8426,8,Circuitos Elétricos,CIRC ELÉTRIC,2,100,6
+8427,8,Lab. Circuitos Elétricos,LAB CIRCUITOS,2,33,2
+8428,8,Sistemas Digitais,SIST DIGITAI,3,67,4
+8429,8,Lab. de Sistemas Digitais,LAB SIST DIGIT,3,33,2
+8430,8,Controladores Industriais,CONTROL. IND,5,100,6
+8431,8,Teoria de Controle,TEOR. CONTRO,3,83,5
+8433,3,Instalações Elétricas Prediais,INST ELET PRED,4,67,4
+8434,8,Microcontroladores,MICROCONTROL,4,83,5
+8435,4,Circuitos Elétricos,CIRC ELÉTRIC,2,83,5
+8436,8,Int. Automação,INT AUTOMAÇÃO,1,17,1
+8437,8,Álgebra Linear Aplicada,ALG. LINEAR,1,67,4
+8438,9,Desenho Geométrico,DES GEO,4,100,6
+8439,9,Álgebra Linear I,ALG LINEAR,5,67,4
+8440,9,Pesquisa Aplicada a Matemática,PESQ APLICADA,5,50,3
+8441,9,Laboratório Ens. Matemática I,LAB ENS MAT,2,50,3
+8442,9,Geometria Euclidiana Plana,GEOM EUCLID,2,67,4
+8443,9,Geometria Euclidiana Espacial,GEOM EUC ESP,5,67,4
+8444,4,Matemática,MATEMÁTICA,1,50,3
+8445,4,Matemática,MATEMÁTICA,3,50,3
+8446,6,Matemática Aplicada,MATEMÁTICA,1,50,3
+8447,9,Álgebra Vetorial e Geo. Ana.,ALG VET E GEO,3,67,4
+8448,9,Cálculo Diferencial  e Integral III,CÁLCULO III,5,83,5
+8449,9,Matemática Básica II,MAT BAS II,3,67,4
+8450,3,Matemática,MATEMÁTICA,2,50,3
+8451,8,Equações Diferenciais,EQ DIFERENC,2,100,6
+8452,3,Mecânica dos Solos,MEC SOLOS,3,50,3
+8453,3,Materiais de Construção,MAT CONST,3,50,3
+8454,7,Materiais de Construção,MAT CONST,3,100,6
+8455,5,Tecnologia das Construções II,TEC CONSTR 2,4,33,2
+8456,3,Concreto,CONCRETO,4,33,2
+8457,3,Topografia,TOPOGRAFIA,2,50,3
+8458,5,Topografia,TOPOGRAFIA,2,100,6
+8459,3,Planejamento e Orçamento,PLANEJ E ORCAM,4,67,4
+8460,3,Estabilidade das Construções,EST CONSTRUC,3,33,2
+8461,3,Des. Estrutural (Proj. de Estruturas),DES ESTRUTURAL,3,33,2
+8462,5,Des. Estrutural (Proj. de Estruturas),DES ESTRUTURAL,3,33,2
+8463,5,Estabilidade das Construções,EST CONSTRUC,3,33,2
+8464,3,Instalações Hidrossanitárias,INST HIDROSS,4,67,4
+8465,5,Instalações Hidrossanitárias,INST HIDROSS,3,100,6
+8466,5,Legislação Aplicada,LEGISLAÇÃO,4,33,2
+8467,5,Materiais de Construção,MAT CONST,2,67,4
+8468,4,Desenho,DESENHO,1,67,4
+8469,3,Desenho Básico e Técnico,DES BAS TÉC,1,33,2
+8470,8,Desenho Aplicado a Automação,DES APL AUT,1,83,5
+8471,7,Desenho Arquitetônico I,DES ARQUIT 1,3,100,6
+8472,7,Des. Instalações Hidrossanitárias,DES INST HIDRO,5,100,6
+8473,7,Des. Instalações Elétricas,DES INST ELETR,5,100,6
+8474,7,Desenho Auxiliado I,DES AUX I,5,100,6
+8475,3,Des. Aplicado Auxiliado por Comp. ,DES AUX COMP,3,33,2
+8476,1,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,1,50,3
+8477,1,Física,FÍSICA,1,50,3
+8478,4,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,1,50,3
+8479,1,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,2,50,3
+8480,1,Química,QUÍMICA,2,50,3
+8482,1,Sistemas Digitais,SIST DIGITAI,2,50,3
+8483,1,Eletrônica Analógica,ELET ANALOG,2,50,3
+8484,1,Química,QUÍMICA,3,33,2
+8485,1,Lab. Sist. Oper. Abertos,LAB SO ABERTOS,3,50,3
+8486,1,Montagem e Conf. de Micros,CONF MICRO,3,50,3
+8487,1,Filosofia,FILOSOFIA,4,50,3
+8488,1,Matemática,MATEMÁTICA,4,83,5
+8489,1,Matemática,MATEMÁTICA,3,33,2
+8490,3,Química,QUÍMICA,1,50,3
+8491,3,Biologia,BIOLOGIA,1,50,3
+8492,3,Física,FÍSICA,1,50,3
+8493,3,História,HISTÓRIA,1,50,3
+8495,3,Química,QUÍMICA,3,33,2
+8496,3,Língua Inglesa,INGLÊS,3,50,3
+8497,4,Matemática,MATEMÁTICA,2,33,2
+8498,4,Biologia,BIOLOGIA,4,67,4
+8499,4,História,HISTÓRIA,4,67,4
+8500,9,Inglês Instrumental,INGLÊS INST.,1,33,2
+8501,8,TCC,TCC,6,50,3
+8502,6,Produção Mecânica,PROD MECÂNIC,3,67,4
+8503,6,Instal. Elétricas Industriais,INT ELETR IND,3,67,4
+8504,5,Instalações Elétricas Prediais,INST ELET PRED,3,67,4
+8505,9,Estágio Supervisionado I,ESTÁGIO,5,17,1
+8506,3,Tecnologia das Construções II,TEC CONSTR 2,4,50,3
+8507,3,Tecnologia das Construções I,TEC CONSTR 1,3,50,3
+8508,8,Mecânica Aplicada,MEC. APLICAD,4,50,3
+8509,6,Inglês Instrumental,INGLÊS INST.,1,33,2
+8510,6,Instalações Elétricas Prediais,INST ELET PRED,3,67,4
+8511,5,Desenho Técnico,DES. TÉCNICO,1,67,4
+8512,5,Desenho Arquitetônico,DES ARQUIT,2,67,4
+8513,5,Projeto Arquitetônico,PROJ ARQUITE,3,67,4
+8514,5,Tecnologia das Construções I,TEC CONSTR 1,3,67,4
+8515,5,Des. Assistido Computador,DES ASSIS COMP,4,67,4
+8516,6,Informática Aplicada,INF APLICADA,2,50,3
+8517,3,Desenho Arquitetônico II,DES ARQ II,3,50,3
+8518,3,Desenho Arquitetônico I,DES ARQUIT 1,2,50,3
+8519,5,Informática Básica,INF. BÁSICA,1,50,3
+8520,6,Projetos Elétricos,PROJ ELÉTRIC,2,67,4
+8521,6,Metrologia,METROLOGIA,2,33,2
+8522,6,Eletrônica Aplicada,ELETRÔN APLI,3,50,3
+8523,6,Soldagem,SOLDAGEM,4,50,3
+8524,6,Informática / Desenho Básico,INFO / DESENHO,1,67,4
+8525,6,Eletricidade Básica,ELETR BÁSICA,1,50,3
+8526,6,Português Instrumental,PORTUGUÊS,1,33,2
+8527,5,Mecânica dos Solos,MEC SOLOS,4,67,4
+8528,3,Des. Básico Auxiliado por Comp.,DES BAS AUX,2,50,3
+8529,8,Tecnologia Mecânica,TEC. MECÂNIC,3,50,3
+8530,1,Matemática,MATEMÁTICA,1,50,3
+8531,1,Química,QUÍMICA,1,50,3
+8532,1,Educação Física,ED. FÍSICA,1,50,3
+8533,2,Introdução ao Computador,INTR. COMP,1,100,6
+8534,2,Português Instrumental,PORTUGUÊS,1,67,4
+8535,2,Inglês Instrumental,INGLÊS INST.,1,50,3
+8536,2,Matemática Aplicada,MATEMÁTICA,1,100,6
+8537,2,Sociedade e Tec. da Informação,SOC E TEC INF,2,50,3
+8538,1,Física,FÍSICA,2,50,3
+8539,1,Fundamentos de Redes,FUND. REDES,2,50,3
+8540,4,Química,QUÍMICA,3,33,2
+8541,4,Instalação de Redes,INST DE REDE,3,50,3
+8542,4,Máq. e Comandos Elétricos,MAQ E COMANDOS,3,50,3
+8543,8,Instal. Elétricas Industriais,INT ELETR IND,4,83,5
+8544,3,Matemática,MATEMÁTICA,3,50,3
+8545,3,Matemática,MATEMÁTICA,4,67,4
+8546,9,Matemática Fundamental ,MAT FUNDAMENT,1,83,5
+8547,9,Argumentação Matemática,ARGUMENTAÇÃO,1,83,5
+8548,9,Matemática Básica I,MAT BÁSICA 1,2,83,5
+8549,9,Cálculo Diferencial  e Integral I,CÁLCULO I,3,83,5
+8550,9,Cálculo Diferencial  e Integral II,CÁLCULO II,4,83,5
+8551,7,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,1,83,5
+8552,7,Matemática,MATEMÁTICA,1,100,6
+8553,7,Matemática,MATEMÁTICA,3,50,3
+8494,3,Matemática,MATEMÁTICA,1,50,4
+8554,5,Português Instrumental,PORTUGUÊS,1,67,4
+8555,5,Matemática Aplicada,MATEMÁTICA,1,67,4
+8556,5,Planejamento e Orçamento,PLANEJ E ORCAM,4,67,4
+8557,5,Empreendedorismo,EMPREED.,4,33,2
+8558,7,Lín. Portuguesa e Lit. Brasileira,PORTUGUES,3,33,2
+8559,7,Língua Inglesa,INGLÊS,5,33,2
+8560,7,Trabalho e Educação,TRAB E EDUC,5,33,2
+8561,9,Matemática Básica III,MAT BAS III,4,67,4
+8562,9,Probabilidade e Estatística,ESTATISTICA,4,83,5
+8563,6,Desenho Técnico,DES. TÉCNICO,2,67,4
+8564,3,Empreendedorismo,EMPREED.,4,33,2
+8565,1,Manutenção de Notebooks,MANT NOTEBOOKS,4,33,2
+8566,3,Tecnologia da Qualidade,TEC QUALIDAD,4,33,2
+8567,4,Matemática,MATEMÁTICA,4,67,4
+8568,1,Língua Inglesa,INGLÊS,1,50,3
+8569,2,Redes de Computadores,REDES,2,100,6
+8570,4,História Geral e do Brasil,HISTÓRIA,4,50,3
+8571,8,Empreendedorismo,EMPREED.,6,67,4
+8572,2,Empreendedorismo,EMPREED.,5,67,4
+8573,8,Cálculo Diferencial  e Integral I,CÁLCULO I,1,100,6
+8574,2,Cálculo Diferencial  e Integral I,CÁLCULO I,2,100,6
+8432,4,Projetos Elétricos,PROJ ELÉTRIC,2,83,3
+8481,1,Matemática,MATEMÁTICA,2,67,3

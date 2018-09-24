@@ -1,0 +1,52 @@
+{
+    "name": "Curso",
+    "fields": [
+        {
+            "fieldName": "nome",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "abreviacao",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "periodos",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "pagina",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "grandeAreaId",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "disciplina",
+            "otherEntityName": "disciplina",
+            "otherEntityRelationshipName": "curso"
+        },
+        {
+            "relationshipType": "many-to-one",
+            "relationshipName": "unidade",
+            "otherEntityName": "unidade",
+            "otherEntityField": "id"
+        }
+    ],
+    "changelogDate": "20180923150701",
+    "entityTableName": "curso",
+    "dto": "no",
+    "pagination": "no",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "ifpbcursos",
+    "applications": "*",
+    "microserviceName": "ifpbcursos"
+}

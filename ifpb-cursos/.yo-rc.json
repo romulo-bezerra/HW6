@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.edu.ifpb.ifpbcursos",
+      "nativeLanguage": "pt-pt"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "ifpbcursos",
+    "packageName": "br.edu.ifpb.ifpbcursos",
+    "packageFolder": "br/edu/ifpb/ifpbcursos",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTFjYzRjM2I3NDZjZGE0MDI4YmMwMGExYzI4NTI1ZWYwMzI5Y2FjNDE4NmVjN2FjNTMzNThiYjIxNzQ5YzY0YWZkYWVlMjg3MDRkYjA2MDJmMjNlZTBjNTdiNzY3MGYzZGUxMThkZGYzNzg0NGY1ZmE4NmExYjQzNWRkMDU3ZDg=",
+    "enableTranslation": true,
+    "languages": [
+      "pt-pt"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "pt-pt",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

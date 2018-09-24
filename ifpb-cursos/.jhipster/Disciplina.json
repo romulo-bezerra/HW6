@@ -1,0 +1,48 @@
+{
+    "name": "Disciplina",
+    "fields": [
+        {
+            "fieldName": "nome",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "abreviacao",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "periodo",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "tipo",
+            "fieldType": "TipoDisciplina",
+            "fieldValues": "OBRIGATORIA,OPTATIVA"
+        },
+        {
+            "fieldName": "cargaHoraria",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "aulasSemana",
+            "fieldType": "Integer"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipName": "curso",
+            "otherEntityName": "curso",
+            "relationshipType": "many-to-one",
+            "otherEntityField": "id"
+        }
+    ],
+    "changelogDate": "20180923150702",
+    "entityTableName": "disciplina",
+    "dto": "no",
+    "pagination": "no",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "ifpbcursos",
+    "applications": "*",
+    "microserviceName": "ifpbcursos"
+}
